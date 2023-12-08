@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LPenev
+- 👀 I’m interested in C#,HTML,CSS,PHP,JS
+- 🌱 I’m currently learning C#
